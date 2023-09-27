@@ -1,0 +1,44 @@
+.barra{
+    position: relative;
+    color: #00b4d8;
+    font-weight: bold;
+    text-align: center;
+    font-size: 6rem;
+    padding: 1px;
+    text-shadow: #00b4d8;
+}
+.pname{
+    font-size: 1rem;
+    margin: 1px;
+}
+
+button{
+    height: 4rem;
+    width: auto;
+    border-color: #3a86ff;
+    border-radius: 10px;
+    color: #FFFF;
+    background-color: #3a86ff; 
+    font-size: 2rem;
+    font-family: 'Helvetica', sans-serif;
+    transition: 0.8s;
+}
+button:hover {
+    color: white;
+    box-shadow: 0 5px 15px #00b4d8;
+  }
+.letra{
+    color: #00b4d8;
+    font-family: 'Helvetica', sans-serif;
+}
+*{
+    color: #00b4d8;
+    font-family: 'Helvetica', sans-serif;
+    background-color: black;
+}
+#menu{
+    position: relative;
+    display:block;
+    padding: 7rem;
+    margin-left: 30%;
+}
